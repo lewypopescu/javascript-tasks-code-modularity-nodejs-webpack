@@ -6,7 +6,7 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const galleryStart = document.querySelector('.gallery');
 
-function imagesCreate() {
+function imagesCreateLight() {
   for (const image of galleryItems) {
     const imageMade = document.createElement('li');
     imageMade.style.listStyleType = 'none';
@@ -21,4 +21,4 @@ function imagesCreate() {
   });
 }
 
-imagesCreate();
+imagesCreateLight();
