@@ -1,8 +1,8 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "javascript-tasks-code-modularity-nodejs-webpack",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://lewypopescu.github.io/goit-js-hw-08",
+  "homepage": "https://lewypopescu.github.io/javascript-tasks-code-modularity-nodejs-webpack",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
