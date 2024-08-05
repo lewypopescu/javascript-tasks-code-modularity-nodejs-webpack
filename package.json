@@ -5,17 +5,17 @@
   "homepage": "https://lewypopescu.github.io/javascript-tasks-code-modularity-nodejs-webpack",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /javascript-tasks-code-modularity-nodejs-webpack/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lewypopescu/goit-js-hw-08.git"
+    "url": "git+https://github.com/lewypopescu/javascript-tasks-code-modularity-nodejs-webpack.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lewypopescu/goit-js-hw-08/issues"
+    "url": "https://github.com/lewypopescu/javascript-tasks-code-modularity-nodejs-webpack/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.22.0",
